@@ -1,1 +1,1 @@
-# ClientOP
+# Клиентский модуль Observability Platform
